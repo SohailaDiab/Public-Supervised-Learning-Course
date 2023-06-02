@@ -1,0 +1,1 @@
+- Going fot an inverse matrix is not the best solution, since the calculation/computation gets more difficult as the matrix grows
